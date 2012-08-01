@@ -8,3 +8,4 @@ Patches and Suggestions
 -----------------------
 - Kracekumar <me@kracekumar.com>
 - Steven Honson
+- Justin Barber <barber.justin (at) gmail>
